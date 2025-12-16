@@ -1,0 +1,205 @@
+{
+  "source_video": "380.mp4",
+  "video_filesize": 474927952,
+  "video_modified": "2025-12-16T10:19:01.555676Z",
+  "video_duration_sec": 7455.133333333333,
+  "video_fps": 60.0,
+  "video_resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "schema_version": "1.0",
+  "created_at": "2025-12-16T07:23:02.478621+00:00",
+  "processing_params": {
+    "sample_interval_sec": 15,
+    "similarity_threshold": 0.5,
+    "similarity_algorithm": "ssim",
+    "save_format": "jpg",
+    "save_quality": 85,
+    "mask_region": {
+      "enabled": false,
+      "x": 1350,
+      "y": 0,
+      "width": 570,
+      "height": 320
+    }
+  },
+  "statistics": {
+    "total_samples": 498,
+    "unique_frames": 34,
+    "duplicate_frames": 464,
+    "processing_time_sec": 91.63
+  },
+  "frames": [
+    {
+      "timestamp": 0.0,
+      "image": "380_00m00s.jpg",
+      "similarity_score": null
+    },
+    {
+      "timestamp": 120.0,
+      "image": "380_02m00s.jpg",
+      "similarity_score": 0.2175
+    },
+    {
+      "timestamp": 225.0,
+      "image": "380_03m45s.jpg",
+      "similarity_score": 0.2942
+    },
+    {
+      "timestamp": 300.0,
+      "image": "380_05m00s.jpg",
+      "similarity_score": 0.4066
+    },
+    {
+      "timestamp": 420.0,
+      "image": "380_07m00s.jpg",
+      "similarity_score": 0.371
+    },
+    {
+      "timestamp": 435.0,
+      "image": "380_07m15s.jpg",
+      "similarity_score": 0.323
+    },
+    {
+      "timestamp": 495.0,
+      "image": "380_08m15s.jpg",
+      "similarity_score": 0.3495
+    },
+    {
+      "timestamp": 555.0,
+      "image": "380_09m15s.jpg",
+      "similarity_score": 0.4457
+    },
+    {
+      "timestamp": 645.0,
+      "image": "380_10m45s.jpg",
+      "similarity_score": 0.3141
+    },
+    {
+      "timestamp": 690.0,
+      "image": "380_11m30s.jpg",
+      "similarity_score": 0.3144
+    },
+    {
+      "timestamp": 855.0,
+      "image": "380_14m15s.jpg",
+      "similarity_score": 0.4925
+    },
+    {
+      "timestamp": 1125.0,
+      "image": "380_18m45s.jpg",
+      "similarity_score": 0.3363
+    },
+    {
+      "timestamp": 1335.0,
+      "image": "380_22m15s.jpg",
+      "similarity_score": 0.2596
+    },
+    {
+      "timestamp": 1380.0,
+      "image": "380_23m00s.jpg",
+      "similarity_score": 0.4389
+    },
+    {
+      "timestamp": 1575.0,
+      "image": "380_26m15s.jpg",
+      "similarity_score": 0.326
+    },
+    {
+      "timestamp": 1605.0,
+      "image": "380_26m45s.jpg",
+      "similarity_score": 0.485
+    },
+    {
+      "timestamp": 1875.0,
+      "image": "380_31m15s.jpg",
+      "similarity_score": 0.4896
+    },
+    {
+      "timestamp": 1920.0,
+      "image": "380_32m00s.jpg",
+      "similarity_score": 0.4173
+    },
+    {
+      "timestamp": 2025.0,
+      "image": "380_33m45s.jpg",
+      "similarity_score": 0.4991
+    },
+    {
+      "timestamp": 5100.0,
+      "image": "380_85m00s.jpg",
+      "similarity_score": 0.4508
+    },
+    {
+      "timestamp": 5265.0,
+      "image": "380_87m45s.jpg",
+      "similarity_score": 0.4211
+    },
+    {
+      "timestamp": 5340.0,
+      "image": "380_89m00s.jpg",
+      "similarity_score": 0.4823
+    },
+    {
+      "timestamp": 5370.0,
+      "image": "380_89m30s.jpg",
+      "similarity_score": 0.4676
+    },
+    {
+      "timestamp": 5835.0,
+      "image": "380_97m15s.jpg",
+      "similarity_score": 0.4059
+    },
+    {
+      "timestamp": 5910.0,
+      "image": "380_98m30s.jpg",
+      "similarity_score": 0.4092
+    },
+    {
+      "timestamp": 6120.0,
+      "image": "380_102m00s.jpg",
+      "similarity_score": 0.4305
+    },
+    {
+      "timestamp": 6195.0,
+      "image": "380_103m15s.jpg",
+      "similarity_score": 0.3351
+    },
+    {
+      "timestamp": 6210.0,
+      "image": "380_103m30s.jpg",
+      "similarity_score": 0.3659
+    },
+    {
+      "timestamp": 6570.0,
+      "image": "380_109m30s.jpg",
+      "similarity_score": 0.4515
+    },
+    {
+      "timestamp": 7155.0,
+      "image": "380_119m15s.jpg",
+      "similarity_score": 0.284
+    },
+    {
+      "timestamp": 7230.0,
+      "image": "380_120m30s.jpg",
+      "similarity_score": 0.248
+    },
+    {
+      "timestamp": 7350.0,
+      "image": "380_122m30s.jpg",
+      "similarity_score": 0.3464
+    },
+    {
+      "timestamp": 7365.0,
+      "image": "380_122m45s.jpg",
+      "similarity_score": 0.327
+    },
+    {
+      "timestamp": 7380.0,
+      "image": "380_123m00s.jpg",
+      "similarity_score": 0.3417
+    }
+  ]
+}
